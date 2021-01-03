@@ -1,0 +1,39 @@
+#header
+{
+    background-color:skyblue;
+    width:60%;
+    font-size:30px;
+    border-radius:10%;
+}
+
+body
+{
+    font-family: 'Special Elite', cursive;
+    text-align:center;
+    background-image:linear-gradient(to right bottom,#bee6f7,#d8f7c1,#f2cef0,#f7f3c1);
+}
+
+#objects
+{
+    width:35%;
+    font-size:20px;
+    border-radius:20px;
+}
+
+#camera
+{
+   border:10px groove grey;
+   width:400px;
+   height:350px;
+}
+
+#result
+{
+    border:10px groove grey;
+    width:400px;
+    height:300px;
+}
+#object_name, #accuracy_no
+{
+    font-size:20px;
+}
